@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/romuloroc.lwc-l0ch16nz",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve kc3dLo7kDKXv9t4b8QrU --open"
+  }
+}
